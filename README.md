@@ -5,9 +5,9 @@
 210177425
 
 # Datasheet
-1.FLCOS：QQ群文件夹
-2.TVP5150：TI官网
-3.STCxx：STC官网
+- FLCOS：QQ群文件夹
+- TVP5150：TI官网
+- STCxx：STC官网
 
 # 美图欣赏
 ![](https://raw.githubusercontent.com/io-hack/io-hack.github.io/master/dl/TINX-30-1.jpg)
