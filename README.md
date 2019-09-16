@@ -1,5 +1,5 @@
 # 499pdb
-- 4.99 projection driver board
+- 4.99 projection CVBS driver board
 - 一个DIY&虚拟化爱好者 https://io-hack.github.io/
 
 # 交流QQ群
